@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Clinica</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--string-array name="distance">
+        <item>0.5 Km.</item>
+        <item>1 Km.</item>
+        <item>2 Km.</item>
+        <item>3 Km.</item>
+        <item>4 Km.</item>
+        <item>5 Km.</item>
+    </string-array>
+
+    <string-array name="distanceValues">
+        <item>0.5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array-->
+
+    <!-- TODO: Remove or change this placeholder text
+    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>-->
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_select_radius">Select Clinics distance from you</string>
+
+    <string name="pref_title_select_radius">Distance selector</string>
+    <string-array name="pref_distance_titles">
+        <item>500 m.</item>
+        <item>1 Km.</item>
+        <item>2 km.</item>
+        <item>3 km.</item>
+        <item>4 km.</item>
+        <item>5 km.</item>
+    </string-array>
+    <string-array name="pref_distance_values">
+        <item>0.5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <!--string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" /-->
+
+    <!--string name="pref_title_system_sync_settings">System sync settings</string-->
+
+    <!-- Example settings for Notifications -->
+    <!--string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string-->
+</resources>

@@ -1,0 +1,489 @@
+{   "clinics": [
+  {
+    "geometry": {
+      "location": {
+        "lat": 32.168761,
+        "lng": 34.842242
+      }
+    },
+    "name": "כללית - גוטפריד",
+    "phone": "+972994562525",
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+      ]
+    },
+
+        "photo_reference": "CoQBdwAAAC3acsfdQ2CMY1darkZ0S9Bmyi3rxZgxRrBv6_tO2jXSeerXhQ0DY1kje7dGy99yeDXI0ek8TzhqjhWNpN_HHKBjmREhVS7jurDIKLq96aXsrfexELbmcLHDIqYJJIllgm9-miq5bCsj7y-fkHf7ZHtYBykWc-m5m8lxejaJU__mEhCzSZ3B4Ooz7fAyyXx1l8cyGhTwNVIkRrX7MlH9QuLBi6s8aUTFDQ",
+
+    "rating": 2,
+    "types": "health,point_of_interest, establishment",
+    "vicinity": "Tchernikhovski Street 4, Herzliya"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 32.1850989,
+        "lng": 34.8689128
+      }
+
+    },
+    "name": "Sara Silber Psychological-Educational Clinic",
+    "phone": "+972994562526",
+
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+      ]
+    },
+
+        "photo_reference": "CoQBdwAAAIgkL-QotpDZenjh-Z3NURh39AB8GP5ALRsihQBxlIatGugHyQEd3ec4nV4hZMe_zD2wbJJrluBrXvnqQ5XlL26ZzwbiYg7kJa0V54SmOUR-8TAWyFbY5UuE3waYSTaLWF8pOVzCVF5-Gdf5EvtopvVRtSPcTsjpRpDVO--RqyKeEhBlv77OBDPOyhsvRZ55QVR_GhTrxJ7xwoEI1qCh5ApanIhxNh2hhw",
+
+    "rating": 4,
+    "types": "health, point_of_interest, establishment",
+    "vicinity": "Motzkin Street 23, Ra'anana"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 32.193214,
+        "lng": 34.89311
+      }
+
+    },
+    "name": "Hanah Tetro",
+    "phone": "+972994562527",
+
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+      ]
+    },
+
+        "photo_reference": "CoQBdwAAAGOE5sKQOXMWxvWornp1Uk4PkrZk_U4ZIUkIeqbwI8lWFbUFx4jGGAGH-NySzDu66ZXWzNrj-k0CCZJXtBIGzDQpniVLMSej8Opb6Y6xc_kAZKH6eEgAzthMXoKIWmlokN1DTyrwVXDI48jaInUXBQKCca7uxuH0NESJA44zSgkaEhBcEwAQEooKuuG22uJXsHV1GhRHXKjBo9k47Dv-KlQSx2vU8G2prA",
+
+    "rating": 3,
+    "types": "health, point_of_interest, establishment",
+    "vicinity": "Khaya ve-Shlomo Engel Street 12, Kefar Sava"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 32.1800353,
+        "lng": 34.8779568
+      }
+
+    },
+
+    "name": "ד\"ר גינזבורג אלכס",
+    "phone": "+972994562528",
+
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+      ]
+    },
+
+        "photo_reference": "CoQBdwAAALEcyZxVqLQsgqMD0j6cPOSbmWUdHv3zZ99XSpZ9Vi1tF6QJ4LgRoYRfn3Z9d84qqOA9OaWe1z9vtpLHtv2CPSmLll_v9uVr8218PtvF4dFDqVcNyAtXbDaXHhviU98-GDlowicmuebflrE68AUQym18UIATTjFylkQ12eM3RRLgEhCi-Ksgjq_Jn52BpAk0KXUsGhTZN0H89hoVE7VlJoJfs0nZ2WnOGg",
+
+    "rating": 5,
+    "types": "doctor, health, point_of_interest, establishment",
+    "vicinity": "מרכז אלרם, אחוזה 98, רעננה"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 32.1669945,
+        "lng": 34.8424397
+      }
+
+    },
+
+    "name": "סמייל קליניק",
+    "phone": "+972994562529",
+
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+
+      ]
+    },
+
+        "photo_reference": "CoQBdwAAAEyn1-x_AvTx3ykKvz1xSbig-uUWIoIJ_OMY1SCMhL4qpbymC_WV-C0QS3RyuG47lfXuI6TRUvymaHcJ3zsa4OJFq5MREbJueSGLqHPBIXASJfq-zLxr1BPOUjbL7C9NREGUBqYyDKqNahar3BCVoqIswk2hno0L6nkyENIWu80_EhAEZsD2Cw5cTTcLUurqKGuBGhSIA_2iHZnf5UreqY6LppVULsEUdQ",
+
+    "rating": 3,
+    "types": "dentist, health, point_of_interest, establishment",
+    "vicinity": "Ben Gurion Boulevard 2, Herzliya"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 32.1707852,
+        "lng": 34.83121940000001
+      }
+
+    },
+
+    "name": "BEYOND",
+    "phone": "+972994562530",
+
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+
+      ]
+    },
+
+        "photo_reference": "CoQBdwAAAKWuFUHvgS7ChdqDEJNLwFQnos_1hgXVfK8qYTA7b2ubby5EeYjjLd3z4-j0hrbZEc2-0VH79vCEsU88SvSqKLf1SjGMMoZ6BLepNwMXyp6Btzj6tUu9d7mhF8RLfSdCXkZFDua88KWSczr8Acq6-cpNGye5H2WmpsNty9sqkFhkEhDsQhTwH3V8RWqbpHpymSqhGhQ0yHUakMd2klEtIDzPY11OC-QPxQ",
+
+    "rating": 5,
+    "types": "health, point_of_interest, establishment",
+    "vicinity": "HaNadiv Street 71, Herzliya"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 32.180438,
+        "lng": 34.804061
+      }
+
+    },
+
+    "name": "Dr. Farryl Jacobson - Herzliya Dental Clinic",
+    "phone": "+972994562531",
+
+    "opening_hours": {
+      "open_now": false,
+      "weekday_text": [
+
+      ]
+    },
+
+        "photo_reference": "CoQBdwAAAGmMdc469j4Is5Xyd9N99fLlaAxaIj-afuLSrBZXuwGrxCmHCOigBNaXJe7GCuHBBZqXtbPzvEnqw-NcP0IvNRZQESdauN5NtkS32PTSrvc_JigJ2EVBdxmYgOc_B8kTKV-1y75b1SWs0gfDyaIuzCkzTR4aRzoTXmhVvoxBlEbpEhA1Yqt_-idvohjgtt-T2hUWGhQ8AeBpF-W3FhzeHDzkTZZOaEi50A",
+
+    "rating": 5,
+    "types": "dentist, health, point_of_interest, establishment",
+    "vicinity": "Ha-Ma'apilim Street 39, herzliya pituach"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 32.1452203,
+        "lng": 34.8416474
+      }
+
+    },
+
+    "name": "Claire Rabin Institute",
+    "phone": "0994562532",
+
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+
+      ]
+    },
+
+
+        "photo_reference": "CoQBdwAAAAdF4NJXSH1hTUlVdzuQWgUVS6Woik6PaeSKJ-bvVr00Cy43VVus1hZOR5HxohGeWxXk51AMy3h3gWB9KtxyG0RTQGKfSbMatxtmT2-0hGJHp2ONbZXYVUQVeF454sIichH1j1OJdgf_4_KVn17fBNDkiQ2b_5jtDAoNCr7q5eC4EhB7RwKODGigDKLvl0FNFnenGhT_0TWYnzbNWr4BFWve8SR1tWuoDQ",
+
+    "rating": 4,
+    "types": "health, point_of_interest, establishment",
+    "vicinity": "שד' ביאליק 25 רמת השרון, רמת השרון"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 32.1741188,
+        "lng": 34.8756411
+      }
+
+    },
+
+    "name": "S.D Acupuncture Clinic",
+    "phone": "+972994562533",
+
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+
+      ]
+    },
+
+        "photo_reference": "CoQBdwAAAFW7owcJoblRenop9rU69dQJocUcVOjvZ3IvJPQ7RY-pEQ8Kpw4_znRmy1e5NKaQvuSqPptgzRSrz4eMWg4Vam0vqRvubPc1yMFrxhmom4ryRuncc6fCbpnF8Mluz5SjjzfGUv-pIR2NPxqsRc8d9kMq1mwbXpEKhi3-1gTWawUAEhARTnWDG2YLcHHl25nXKx18GhTqzTKifKkPzXabe5HfPHlXwnfEnQ",
+
+    "rating": 3,
+    "types": "health, point_of_interest, establishment",
+    "vicinity": "Rambam Street 77, Ra'anana"
+  },
+
+  {
+    "geometry" : {
+      "location" : {
+        "lat" : 32.179489,
+        "lng" : 34.87941
+      }
+
+    },
+
+    "name" : "Clinic By Click care and counseling rooms for rent by hour",
+    "phone": "+972994562534",
+
+    "opening_hours" : {
+      "open_now" : true,
+      "weekday_text" : []
+    },
+
+        "photo_reference" : "CoQBdwAAAEzTM7bQiiclMzD-nu3HYildXxpu1rM_Ts78rcYtJr6jnKXcNrVdP4IPtA_M7bMQSLpUP7laX1stzyb_PPnedOrjSjUdbIdHoTg6NFrXo30ge07tZZNQ0zn2_qCexN8U8-FDl3HkYJ3EQvrLEk1HrGoZQcBu2ImdRR_C-WDhU6nVEhDd4m3TbHGFSGP9f60Bse_sGhSlH4RIdtaLee70AikH9I1dWiT_JA",
+
+    "rating": 4,
+    "types" : "real_estate_agency, point_of_interest, establishment",
+    "vicinity" : "Ahuza Street 80, Ra'anana"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 32.174341,
+        "lng": 34.89185200000001
+      }
+
+    },
+
+    "name": "מרפאת עידנים",
+    "phone": "+972994562545",
+
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+
+      ]
+    },
+
+        "photo_reference": "CoQBdwAAAPvtwVGvLAjXWkgE5D4ZRHUuSLylcsS-l4wG9c_2L14EiwMPfbD49ksDUPwxrVXefYl1UhIXA4dVqjXbVWHfhjB5GVMQrUR7ycMfj0mozS5xwdfo8wOw3Xn2WVijXa4EvXfeGmTv-vHpWZ2p2_k5wkFlRUKg16RB2JfA0TrgFc5BEhCRdZQ0mXgaEK1je7641LKPGhSCsleWwJzlBV-PhCaTgiLXc7JNbg",
+
+    "rating": 5,
+    "types": "health, point_of_interest, establishment",
+    "vicinity": "HaTsomet 9, Kefar Sava"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 32.155809,
+        "lng": 34.89102199999999
+      }
+
+    },
+
+    "name": "Anrtz'i Complementary Medicine",
+    "phone": "+972994562555",
+
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+
+      ]
+    },
+
+        "photo_reference": "CoQBdwAAAL5PMHayVEpNxqaTr9JEJo7lJRB9teNewaS-Dh_6T_7sXId2XJ7IaSBPJ694H_kjDPRbt0JxqQ_hAi00wCP1YWnIX64GEE3Y8IyeW6e4qYaa6A7lOOS73nL0lOtgqQGBCdnK_Jbk-Zf84O3EajZUlM1xWLYGPHA2MIMoa7jmRYwzEhDjGdFk6ZMZ4nbw3gSuBqwXGhR-HEU_us7mWIvlu5mbX1b5HYF03Q",
+
+    "rating": 2,
+    "types": "health, hospital, point_of_interest, establishment",
+    "vicinity": "HaBanim Street 14, Hod Hasharon"
+  },
+  {
+    "geometry" : {
+      "location" : {
+        "lat" : 32.1671391,
+        "lng" : 34.8453204
+      }
+
+    },
+
+    "name" : "Prof. Dov Feldberg",
+    "phone": "+972994562565",
+
+    "opening_hours" : {
+      "open_now" : true,
+      "weekday_text" : []
+    },
+
+        "photo_reference" : "CoQBdwAAALcFRdtJ2iQ18h3lsvee1y-LN9smVD1Ff70PdF6nkumrVr7PQNqsZtrc4NQWGcsXWu1fyosWpZUAgoarskrBxLsh_ocZdaOa5QaYs_QWcJgt7xvCsymjkz6ryK4J9KqKNE68fE34uG0c-DG27mpZT5sZ-gWIE1G9dYIm0zseAZXeEhBOYwoetEPBzLKbSSn1tDFeGhRy-jsoDE9yRCJdYqBkyYmluANU3w",
+
+    "rating" : 5,
+    "types" : "doctor, health, point_of_interest, establishment",
+    "vicinity" : "Sokolov Street 46, Herzliya"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 32.1808669,
+        "lng": 34.8739663
+      }
+
+    },
+
+    "name": "Maccabi Health Services",
+    "phone": "+972994562575",
+
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+
+      ]
+    },
+
+        "photo_reference": "CoQBdwAAAKXMqKOkllbY9glSjzf44VjAghgD2Posmb9-atgLiZKPuVl3C4ZsxHyjZ73IXvw7ozvJcKU2vYHjK5cL2JUaTwQ9wA9qvMGSIjoXRqG8FW3NdciUWczkKrXpeqs8UljODXaWU7juFgC1AWcx2Hf-qGsMZ8L3fLWDfdU9GgDepDndEhBpTbrIMu6K2ZxiN9_1xVsyGhRsU5fYTZ-LZdwmcXibUr6lBqkSsQ",
+
+    "rating": 4.2,
+    "types": "health, point_of_interest, establishment",
+    "vicinity": "Ahuza Street 124, Ra'anana"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 32.163686,
+        "lng": 34.84278560000001
+      }
+
+    },
+
+    "name": "כללית",
+    "phone": "+972994562585",
+
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+
+      ]
+    },
+
+        "photo_reference": "CoQBdwAAAH6_DYwCG2OKyNG3NR2PLbGn7YN8WiFpUarfEmPK-uFdEZ3ghlhXL4BJmc6Mt5HE8NmEQstPxgNUgiFjXL1DVW9PUniO9XKJPltZMJYbV3QvSywphTpd1a7QdqOVoKbF0yQ0SWAvWCYqHtdb6QukQUdRTWgGDRcjZDCMTHeS3uDBEhDForzq1AN0k85VpgPQD1nQGhQyfFpHOHei7BZ3LLc_JPnwj6xoGw",
+
+    "rating": 3.5,
+    "types": "doctor, health, point_of_interest, establishment",
+    "vicinity": "Rambam Street 1, Herzliya"
+  },
+  {
+    "geometry" : {
+      "location" : {
+        "lat" : 32.19504,
+        "lng" : 34.878137
+      }
+
+    },
+
+    "name" : "פרל דנטל מרפאת שיניים",
+    "phone": "+972994562595",
+
+    "opening_hours" : {
+      "open_now" : true,
+      "weekday_text" : []
+    },
+
+        "photo_reference" : "CoQBdwAAAHGBfCD8HB_Z8MgM3ytyt8jxcsnZJRs7-MeUDmZ-ZicQVHZMW6tVz6HQpyl6fX9vTt6sIgHt7Edt4NAifT2-FfXi8IkH7s1LTXrYsdAGkPKxNkfzs3ks1hM21LI1FDztxR85ok7mVFECJFFrGzhJEYpp3NroO0Zfequscu53XeRxEhDtzByyM0MZ0Bt_sVzjMiy9GhTNEjDpwf4fCbW1dSvHbAlZlwkLQw",
+
+    "rating" : 4.9,
+    "types" : "dentist, doctor, health, point_of_interest, establishment" ,
+    "vicinity" : "Ha-Yetsira Street 5, Ra'anana"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 32.1666229,
+        "lng": 34.8569892
+      }
+
+    },
+
+    "name": "כללית - טיפת חלב",
+    "phone": "+972994562625",
+
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+
+      ]
+    },
+
+        "photo_reference": "CoQBdwAAAHEVwAIByyJWPBGnQF6nBUuv6hrFWSwdVM-xIMsaQeU3V9zQ_Dm8uHKyTiq-NvAlfRQVtc2_pKip9mYXNu2ZX1andmjbpM7UuRL9n8AyuO9qmOdAS1fJ-bSyv_5iKB424ycPqoDrA9ltMOyosONBWVkY0TuNxrfEubxtU64UF0Z4EhC1eHLjnwvq_LZCgrDTk6FPGhR3L86XI6E0HJg5O2PE3yKE5taMEg",
+
+    "rating": 3.8,
+    "types": "health, point_of_interest, establishment",
+    "vicinity": "Ha-Yore Street 9, Herzliya"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 32.1675929,
+        "lng": 34.849008
+      }
+
+    },
+
+    "name": "כללית",
+    "phone": "+972994562725",
+
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+
+      ]
+    },
+
+        "photo_reference": "CoQBdwAAAIRMzdYq0MxxlBA-4TVRAMuunbMOQ2M_3OuSMJ-cONYu66vQl683LFEoRVokD3J70YDKUkQwA6CKFvTbvJVwK-x8hHg7PCmzDM8hzxnydxvdgKpkiQ3tA3MokMa4ijGA8Y0nfa3Pxu25aFcQd07KUdSB1tMMLbx7lhLJoiX3tApZEhCxxkTSofBTqj0z7q-D5NIEGhTw6DD_dyXlMvU9PBWljyldFKOXCg",
+
+    "rating": 3.7,
+    "types": "health, point_of_interest, establishment",
+    "vicinity": "Hadar Street 2, Herzliya"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 32.185786,
+        "lng": 34.856078
+      }
+
+    },
+
+    "name": "כללית",
+    "phone": "+972994562825",
+
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+
+      ]
+    },
+
+        "photo_reference": "CoQBdwAAAJ1AVvbKovYBDXSU9u2SPpE0aImy1_eW3VFx6IkZMXs0zLf38B4_a8vgZAIu7UojSU0NtTN9TLaYnQ-9V9sZiaC7cWI9TcKzflnstXRvshXqq72DyZMvxEDxMKSRSrsUZ471xb1sz0QCquXcOXCCTQICwynsTTZej8PZOrn6tupJEhBsZjMb24qZGRt-UltyDagxGhSDOiNctLsQPU60X0MnXJybmFnLxQ",
+
+    "rating": 4.8,
+    "types": "health, point_of_interest, establishment",
+    "vicinity": "Ahuza Street 278, Ra'anana"
+  },
+  {
+    "geometry" : {
+      "location" : {
+        "lat" : 32.181609,
+        "lng" : 34.895609
+      }
+
+    },
+
+    "name" : "Meir Medical Center",
+    "phone": "+972994562925",
+
+    "opening_hours" : {
+      "open_now" : true,
+      "weekday_text" : []
+    },
+
+        "photo_reference" : "CoQBdwAAAPjo5mhRBlzRg7DG7yGqSJsdyNkmsRpFknqrkFywu9xwXQPrGGdGWKj882DWbOe15HA4Xua_I_SCGY2Vtw7CttxZB7Zvt06bqIc11KsZ9yxHdEq7UVibG2zhiSpRzOXDfIaXIR33oohilz5vla-ydfBY5Z4tvgqEO9BL_afhx0T8EhDnm2bUqRqHCcNfxEflOCqiGhSVTEZAHqnH57Zx904kDGmC2yPD4w",
+
+    "rating" : 4,
+    "types" : "hospital, point_of_interest, establishment" ,
+    "vicinity" : "Tchernichovsky Street 59, Kefar Sava"
+  }
+],
+  "status": "OK"
+}
